@@ -18,9 +18,9 @@
 
 // Console.WriteLine(max);
 
-int a = -9;
+int a = -9, 
 int b = -3;
-int max = a;
+int max = a; 
 
 if(b>max)
 {

@@ -6,9 +6,7 @@
 
 
 
-int a = 44;
-int b = 5;
-int c = 22;
+ int a = 6,  b = 5, c = 22;
 int max = a;
 if (max < b)
  {

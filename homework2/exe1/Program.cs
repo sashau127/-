@@ -18,9 +18,6 @@ if (max < b)
 {
   max = c;
 }
-else
-{
-  max = a;
-}
+
 
 Console.WriteLine(max);
